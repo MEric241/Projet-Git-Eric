@@ -1,0 +1,4 @@
+#  ce fichier permet de préciser quel dossier ou fichier ne sera pas versionné sur github
+#  on exclu ici le dossier contenant le simages qui n'a pas besoin d'être versionné
+
+/img/
